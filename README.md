@@ -298,14 +298,14 @@ MIT License - 2025 WIPS Project
 
 Para preguntas o problemas:
 
-- **Sofía López** - Frontend: sofia.lopez@email.com
+- **Sofía López** - Frontend: 06.whosofia@gmail.com
 - **Mateo Lastra** - Backend: mateo.lastra@email.com
 - **Juan Manuel Londoño** - Full Stack: juan.londono@email.com
 
 ## 🙏 Agradecimientos
 
 - Lenguajes de Programación y POO - Asignatura
-- [Institución] - Por el apoyo académico
+- Unilasallista - Por el apoyo académico
 - Comunidad de código abierto - Por las herramientas utilizadas
 
 ## 📈 Roadmap Futuro
